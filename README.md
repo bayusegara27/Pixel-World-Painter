@@ -1,6 +1,6 @@
 # Pixel World Painter
 
-![Pixel World Painter Screenshot]()
+![img]()
 
 ## Welcome to Pixel World Painter! 🎨🌍
 
@@ -47,6 +47,7 @@ Ready to jump in and start coding? Let's get you set up in just two steps.
 
 1.  **Install Dependencies:**
     (We recommend using [Bun](https://bun.sh/) for speed, but `npm` or `yarn` will also work.)
+
     ```bash
     bun install
     ```
