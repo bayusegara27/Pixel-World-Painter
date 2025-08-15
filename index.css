@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #111827; /* bg-gray-900 */
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.leaflet-container {
+  /* A light grey to match the CARTO Voyager tiles */
+  background: #f0f0f0;
+}
+
+/* Custom Popup Styling */
+/* Remove default wrapper visuals to let our component's style show */
+.custom-pixel-popup .leaflet-popup-content-wrapper {
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
+}
+
+/* Ensure our content fits perfectly without Leaflet's interference */
+.custom-pixel-popup .leaflet-popup-content {
+  margin: 0;
+}
+
+/* Style the tip (the arrow) to match our dark theme */
+.custom-pixel-popup .leaflet-popup-tip {
+  background: rgba(31, 41, 55, 0.8); /* bg-gray-800/80 */
+  border: none;
+  box-shadow: none;
+}
+
+/* Style the close button to be visible on a dark background */
+.custom-pixel-popup a.leaflet-popup-close-button {
+  color: #9ca3af !important; /* text-gray-400 */
+  transition: color 0.2s;
+  top: 8px;
+  right: 8px;
+}
+.custom-pixel-popup a.leaflet-popup-close-button:hover {
+  color: #ffffff !important; /* text-white */
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Pixel World Painter",
+  "description": "A collaborative pixel art game on a world map, inspired by r/place. Pan and zoom across the globe, and when you zoom in close enough, a grid appears. Pick a color and paint a pixel on the shared canvas to leave your mark on the world.",
+  "requestFramePermissions": []
+}
