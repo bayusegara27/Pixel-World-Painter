@@ -23,7 +23,6 @@ Think of it as the foundational single-player mode. The next giant leap is to bu
 - **Slick UI**: A modern, responsive, and dark-themed interface that's a joy to use.
 - **Keyboard Shortcuts**: Power-user shortcuts for tools, grid, and info panels.
 - **Shareable Locations**: Copy a link to any pixel to share your findings or creations.
-- **Browser Persistence**: Your artwork is automatically saved in your browser's local storage.
 
 ## 🚀 Future Goals
 
