@@ -6,7 +6,7 @@
 
 Ever wanted to leave your mark on the entire world? Now you can!
 
-Pixel World Painter is a massive, collaborative art experiment built on an interactive world map. It's a persistent digital canvas where you can team up with others to create sprawling works of art, defend your territory, or just have fun placing pixels one by one. Inspired by legendary projects like `r/wplace`, this is your chance to paint the globe.
+Pixel World Painter is a massive, collaborative art experiment built on an interactive world map. It's a persistent digital canvas where you can team up with others to create sprawling works of art, defend your territory, or just have fun placing pixels one by one. Inspired by legendary projects like `wplace`, this is your chance to paint the globe.
 
 ### 🚧 Project Status: In Development 🚧
 
